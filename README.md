@@ -2,6 +2,8 @@
 
 I'm **Pulkit Meena**, an AI/ML Developer & Builder passionate about leveraging large language models and intelligent systems to solve real-world problems. Welcome to my GitHub profile!
 
+![](https://komarev.com/ghpvc/?username=pulkitx1&label=Profile+Views&color=0e75b6&style=flat)
+
 ## 🚀 About Me
 
 I'm a B.Tech IT student at **IIIT Bhopal** (2024-2028) with a strong focus on **AI/ML Engineering** and **LLM applications**. Currently interning at **Mergedeck** as a Growth Analytics Associate, where I work on data-driven solutions. I'm a **Google Student Ambassador** and have a passion for building innovative projects with cutting-edge technologies. When I'm not coding, you'll find me exploring new AI/ML techniques or contributing to open-source projects.
